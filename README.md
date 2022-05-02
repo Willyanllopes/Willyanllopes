@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 - 🔭 Atualmente estou trabalhando como analista de Service Desk
-- 🌱 Estou estudando: HTML,CSS e Javascript
+- 🌱 Estou estudando: HTML,CSS e JavaScript
 - 📫 Como me contatar: https://www.linkedin.com/in/willyan-lopes-0b9173216/
 - ⚡ Curiosidades: Estudante de Analise e Desenvolvimento de Sistemas, e amor solucionar problemas.
 
